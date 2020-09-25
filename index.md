@@ -28,7 +28,7 @@ Si aun no tienes cryptomonedas puedes conseguirlas de forma senzila. Puedes hace
 1. Crea tu cuenta en Binance. Puedes hacerlo de forma gratuita clicando [aqui](https://accounts.binance.com/es/register)
 ![Login binance](assets/img/1_11.webp)
 2. Autentica tu identidad siguiendo los pasos de la plataforma
-![Identificacion en binance](assets/img/1_3.webp)
+![Identificación en binance](assets/img/1_3.webp)
 3. Compra tus primeras criptomonedas siguiendo los pasos del asistente. Recomendamos empezar con Tether USDT. Puedes pagarlos por transferencia, con tarjeta de credito o muchos otros metodos de pago.
 ![Compra criptomonedas en binance](assets/img/1_4.webp)
 
