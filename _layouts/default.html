@@ -71,7 +71,12 @@
     {% endif %}
       <script>
 				jQuery('a[href$="5V5T0"]').each(function() { jQuery(this).click(function () {
-  gtag('event', 'conversion', { 'send_to': 'AW-950640241/wIKaCPKXheABEPG8psUD', 'event_callback': callback }); })});
+  gtag('event', 'conversion', { 'send_to': 'AW-950640241/wIKaCPKXheABEPG8psUD', 'event_callback': callback });
+	ga('send', 'event', 'conversion', 'click', jQuery(this).text());
+				})});
+				jQuery('a').each(function() { jQuery(this).click(function () {
+				ga('send', 'event', 'linkClick', 'click', jQuery(this).text());
+				})});
 			</script>
 			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f6dac0655bc6da3"></script>
 			<script type="application/ld+json">
