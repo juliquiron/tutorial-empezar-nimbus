@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel ="apple-touch-icon" sizes ="180x180" href ="assets/img/apple-touch-icon.png">
+	<link rel ="icon" type ="image/png" sizes ="32x32" href ="assets/img/favicon-32x32.png">
+	<link rel ="icon" type ="image/png" sizes ="16x16" href ="assets/img/favicon-16x16.png">
+	<link rel ="icon" type ="image/ico" sizes ="16x16" href ="assets/img/favicon.ico">
+	<link rel ="manifest" href ="assets/img/site.webmanifest">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"></li>
+            <li class="downloads"></li>
+            <li class="downloads"></li>
+            <li class="title"></li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
+        </div>
+
+        {{ content }}
+
+      </section>
+
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+      <script>
+			</script>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f6dac0655bc6da3"></script>
+			<script type="application/ld+json">
+				{
+					"@context": "schema.org",
+					"@type": "Guide",
+					"category": "Invertir en criptomonedas",
+					"name": "Como empezar a invertir en criptomonedas con nimbus platform",
+					"text": "Guia para principiantes sobre como empezar a invertir criptomonedas con nimbus platform y conseguir mas de un 7.5% de beneficio mensual, pagado diariamente, gracias a su avanzada Inteligencia Artificial, el software Avalon.",
+					"image": "https://nimbus-starter-guide.com/assets/img/intro.webp",
+					"description": "Guia definitiva para principiantes para invertir en criptomonedas usando nimbus platform y consiguiendo increibles beneficion de tus depositos.",
+					"author": {
+            "@type": "Organization"
+					},
+					 "hasPart": [
+						{
+							"@type": "Recommendation",
+							"position": 1,
+							"itemReviewed": {
+								"@type": "Product",
+								"brand": "Nimbus platform",
+								"name": "Nimbus Platform",
+								"description": "Plataforma con avanzada Inteligencia Artificial para inventir en criptomonedas y conseguir ingresos pasivos diarios de tus depositos.",
+								"sku": "https://nimbusplatform.io",
+								"url": "https://nimbusplatform.io",
+								"image": "https://nimbus-starter-guide.com/assets/img/intro.webp",
+								"offers": [
+									{
+										"@type": "Offer",
+										"price": "500$",
+										"url": "https://app.nimbusplatform.io/ref/5V5T0"
+									}
+									]
+							}
+						} ]
+					}
+				</script>
+  </body>
+</html>
