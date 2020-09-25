@@ -1,9 +1,9 @@
-## **Guia facil para empezar a invertir con [nimbusplatform.io](https://app.nimbusplatform.io/sign-up) y conseguir ingresos diarios**
-Esta guia muestra paso a paso como [crear tu cuenta en nimbus platform](https://app.nimbusplatform.io/sign-up) y como empezar a invertir en cryptomonedas y beneficios dia a dia.
+## **Guia facil para empezar a invertir con [nimbusplatform.io](https://app.nimbusplatform.io/ref/5V5T0) y conseguir ingresos diarios**
+Esta guia muestra paso a paso como [crear tu cuenta en nimbus platform](https://app.nimbusplatform.io/ref/5V5T0) y como empezar a invertir en cryptomonedas y beneficios dia a dia.
 
 Esta guia contiene las indicaciones basicas de nuestro equipo inversor para nuevos usuarios, ahora publicadas y echas accessibles para todo el mundo.
 
-*[Empieza creando tu cuenta gratuita en nimbus](https://app.nimbusplatform.io/sign-up)*
+*[Empieza creando tu cuenta gratuita en nimbus](https://app.nimbusplatform.io/ref/5V5T0)*
 
 ## Que es nimbus?
 
@@ -11,7 +11,7 @@ Nimbus es una plataforma de inversion de criptomonedas. Gracias a avanzados bots
 
 A continuación pueden ver de la documentación oficial los beneficios mensuales (asi como el pago por retiro temprano de los dipositos).
 
-![Beneficios diarios y mensuales de nimbus platfrom](assets/img/intro.png)
+![Beneficios diarios y mensuales de nimbus platfrom](assets/img/intro.webp)
 
 Nimbus trabaja en 3 criptomonedas distintas: Bitcoin, Etherum y Tether(USDT). USDT es interesante para usuarios nuevos pues tiene un cambio fijo con el Dollar.
 
@@ -19,18 +19,18 @@ Nimbus trabaja en 3 criptomonedas distintas: Bitcoin, Etherum y Tether(USDT). US
 
 ### Empieza creando tu cuenta en nimbus
 
-Es muy **facil y gratuito**. Simplemente accede al [registro de alta de nimbusplatform.io](https://app.nimbusplatform.io/sign-up). Puedes usar [este link directo](https://app.nimbusplatform.io/sign-up)
+Es muy **facil y gratuito**. Simplemente accede al [registro de alta de nimbusplatform.io](https://app.nimbusplatform.io/ref/5V5T0). Puedes usar [este link directo](https://app.nimbusplatform.io/ref/5V5T0)
 
 ### Consigue tus criptomonedas
 
 Si aun no tienes cryptomonedas puedes conseguirlas de forma senzila. Puedes hacerlo en muchas plataformas distintas, nosotros recomendamos usar [binance](https://binance.com) por ser senzilla y barata.
 
 1. Crea tu cuenta en Binance. Puedes hacerlo de forma gratuita clicando [aqui](https://accounts.binance.com/es/register)
-![Login binance](assets/img/1_11.png)
+![Login binance](assets/img/1_11.webp)
 2. Autentica tu identidad siguiendo los pasos de la plataforma
-![Identificacion en binance](assets/img/1_3.png)
+![Identificacion en binance](assets/img/1_3.webp)
 3. Compra tus primeras criptomonedas siguiendo los pasos del asistente. Recomendamos empezar con Tether USDT. Puedes pagarlos por transferencia, con tarjeta de credito o muchos otros metodos de pago.
-![Compra criptomonedas en binance](assets/img/1_4.png)
+![Compra criptomonedas en binance](assets/img/1_4.webp)
 
 A partir de ahora, para esta guia, vamos a asumir que operas con Tether USDT des de binance.
 
@@ -42,12 +42,12 @@ Antes de poder hacer el primer diposito debemos mover las criptomonedas a nimbus
 1. Ve a tu panel de nimbus y en los totales arriba del todo
 2. Selecciona 'Recibir' y en el desplegable selecciona Tether USDT
 3. Copia la direccion de tu wallet que aparece como "Su USDT Billetero:". Empieza con 0x...
-![Consigue el ID de tu billetera de nimbus platform](assets/img/2_1.png)
+![Consigue el ID de tu billetera de nimbus platform](assets/img/2_1.webp)
 4. En Binance ve a Billetera -> Billetera Spot y clica a 'Retirar' en la fila de Tether USDT.
-![Retira tus criptomonedas de binance y envialas a nimbus platform](assets/img/2_4.png)
+![Retira tus criptomonedas de binance y envialas a nimbus platform](assets/img/2_4.webp)
 5. Pega la dirección de tu wallet de nimbus a la dirección USDT del destinatario.
 6. Selecciona la red ERC20 y la cantidad a transferir.
-![Selecciona la red adecuada para el envio de USDT a nimbus platform](assets/img/2_6.png)
+![Selecciona la red adecuada para el envio de USDT a nimbus platform](assets/img/2_6.webp)
 7. Clica a 'Enviar' y espera a recibir tus criptomonedas en nimbus.
 
 ### Es el momento! tu primer diposito de criptomonedas
@@ -57,7 +57,7 @@ Esto es lo mas facil :)
 1. En tu panel de nimbus clica en el segundo icono de la barra lateral 'Mercado'
 2. Clicar en 'Instalar' en 'Aplicación Avalon'
 3. Selecciona USDT y introduce la cantidad de la que quieres hacer el diposito.
-![Haz tu primer diposito con nimbus platform](assets/img/3_1.png)
+![Haz tu primer diposito con nimbus platform](assets/img/3_1.webp)
 4. Clica siguiente
 5. Clica finalizar
 6. ... **y espera para ver los beneficios llegando a tu cuenta!**

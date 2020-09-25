@@ -26,3 +26,10 @@ em a {
 	padding: 0.5em 1em;
 	color: #252525;
 }
+
+@media print, screen and (max-width: 1444px) {
+	section img {width: 83vw; max-width: 83vw; margin-left: -14vw; padding: 2rem 0;}
+}
+@media print, screen and (max-width: 885px) {
+	section img {width: 100%; max-width: 100%; margin: 0; padding: 1.5rem 0;}
+}
