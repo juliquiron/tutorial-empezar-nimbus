@@ -1,25 +1,15 @@
-## **Guia facil para empezar a invertir con [nimbusplatform.io](https://app.nimbusplatform.io/ref/5V5T0) y conseguir ingresos diarios**
-Esta guia muestra paso a paso como [crear tu cuenta en nimbus platform](https://app.nimbusplatform.io/ref/5V5T0) y como empezar a invertir en cryptomonedas y beneficios dia a dia.
+## **Guia facil para empezar a invertir con <a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">nimbusplatform.io</a> y conseguir ingresos diarios**
+Esta guia muestra paso a paso como <a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">crear tu cuenta en nimbus platform</a> y como empezar a invertir en cryptomonedas y beneficios dia a dia.
 
 Esta guia contiene las indicaciones basicas de nuestro equipo inversor para nuevos usuarios, ahora publicadas y echas accessibles para todo el mundo.
 
-*[Empieza creando tu cuenta gratuita en nimbus](https://app.nimbusplatform.io/ref/5V5T0)*
-
-## Que es nimbus?
-
-Nimbus es una plataforma de inversion de criptomonedas. Gracias a avanzados bots con Inteligencia Artifical asegura rendibilidad de nuestros depositos y unos retornos de inversion increibles.
-
-A continuación pueden ver de la documentación oficial los beneficios mensuales (asi como el pago por retiro temprano de los dipositos).
-
-![Beneficios diarios y mensuales de nimbus platfrom](assets/img/intro.webp)
-
-Nimbus trabaja en 3 criptomonedas distintas: Bitcoin, Etherum y Tether(USDT). USDT es interesante para usuarios nuevos pues tiene un cambio fijo con el Dollar.
+<em><a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">Empieza creando tu cuenta gratuita en nimbus</a></em>
 
 ## Como empezar
 
 ### Empieza creando tu cuenta en nimbus
 
-Es muy **facil y gratuito**. Simplemente accede al [registro de alta de nimbusplatform.io](https://app.nimbusplatform.io/ref/5V5T0). Puedes usar [este link directo](https://app.nimbusplatform.io/ref/5V5T0)
+Es muy **facil y gratuito**. Simplemente accede al <a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">registro de alta de nimbusplatform.io</a>. Puedes usar <a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">este link directo</a>.
 
 ### Consigue tus criptomonedas
 
